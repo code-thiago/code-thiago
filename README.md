@@ -1,4 +1,4 @@
-### Hi dear! eu sou Thiago Marques ✅
+### Hi dear! I am Thiago Marques ✅
 
 Experienced software engineer with strong expertise in web development, specializing in scalable, high-performance full-stack applications. Solid background in data structures and algorithms, contributing to efficient and maintainable codebases.
 
