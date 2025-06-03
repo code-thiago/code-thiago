@@ -1,7 +1,12 @@
 ### Hi dear! eu sou Thiago Marques ✅
 
-Desenvolvedor especializado em TypeScript, com experiência em criar soluções robustas e escaláveis no front-end e back-end. Focado em aplicar boas práticas de desenvolvimento para melhorar a performance e a qualidade dos projetos. Comprometido em entregar código limpo, eficiente e bem documentado, garantindo excelência em cada etapa do desenvolvimento. Sempre explorando novas ferramentas e frameworks para resolver problemas de forma criativa e prática.
+Experienced software engineer with strong expertise in web development, specializing in scalable, high-performance full-stack applications. Solid background in data structures and algorithms, contributing to efficient and maintainable codebases.
 
+Proficient in JavaScript, TypeScript, React, and Node.js, with hands-on experience building responsive UIs and modern back-end services. Skilled in relational and non-relational databases, focusing on data integrity, optimization, and scalability.
+
+Fluent in Git-based version control workflows, agile development practices, and cross-functional collaboration in distributed teams. Adept at CI/CD, code reviews, and delivering features aligned with business goals.
+
+Adaptable to diverse environments and committed to writing clean, testable code. Focused on delivering meaningful technical contributions to global products with real-world impact.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://tthiagoboia2911@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiag0_marquez/?next=%2F)
