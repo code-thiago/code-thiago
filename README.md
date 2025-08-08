@@ -12,7 +12,7 @@ Adaptable to diverse environments and committed to writing clean, testable code.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiag0_marquez/?next=%2F)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoboia/)
 
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my day
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
