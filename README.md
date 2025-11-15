@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="Design sem nome" src="https://github.com/user-attachments/assets/05afb0af-9b1b-4902-87a2-725605595d89" />
+
+<img width="1527" height="683" alt="Design sem nome copia" src="https://github.com/user-attachments/assets/781dbbe6-945f-4f94-a8f4-458c24b37efc" />
 
 ### Hi dear! I am Thiago Marques ✅
 
