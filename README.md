@@ -1,7 +1,6 @@
 
-<img width="1527" height="683" alt="Design sem nome copia" src="https://github.com/user-attachments/assets/781dbbe6-945f-4f94-a8f4-458c24b37efc" />
 
-### Hi dear! I am Thiago Marques ✅
+### Hi dear! I am Thiago Marques 
 
 Experienced software engineer with strong expertise in web development, specializing in scalable, high-performance full-stack applications. Solid background in data structures and algorithms, contributing to efficient and maintainable codebases.
 
